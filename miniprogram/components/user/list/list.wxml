@@ -1,0 +1,28 @@
+<view class="list-main">
+  <view class="list">
+    <view class="list-item list-item-bottom">
+      <view></view>
+      <text bindtap="toMyPlan">我的计划</text>
+    </view>
+    <view class="list-item list-item-bottom">
+      <view></view>
+      <text bindtap="copyAuthorGithub">作者 Github</text>
+    </view>
+    <view class="list-item list-item-bottom">
+      <view></view>
+      <text bindtap="toAuthorInfo">作者介绍</text>
+    </view>
+    <view class="list-item list-item-bottom">
+      <view></view>
+      <text>内容一</text>
+    </view>
+    <view class="list-item list-item-bottom">
+      <view></view>
+      <text>内容一</text>
+    </view>
+    <view class="list-item">
+      <view></view>
+      <text>内容一</text>
+    </view>
+  </view>
+</view>

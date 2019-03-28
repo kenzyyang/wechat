@@ -1,0 +1,9 @@
+<view class="user">
+  <!-- 用户信息 -->
+  <user-header></user-header>
+  <!-- 打卡信息 -->
+  <clock-info></clock-info>
+  <view class="content">
+      <button-list></button-list>
+  </view>
+</view>

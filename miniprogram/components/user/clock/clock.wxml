@@ -1,0 +1,16 @@
+<view class="clock">
+  <view class="clock-block">
+    <view class="clock-item right-border">
+      <text class="clock-content"> abc</text>
+      <text class="clock-tips">未完成</text>
+    </view>
+    <view class="clock-item right-border">
+      <text class="clock-content"> abc</text>
+      <text class="clock-tips">已完成</text>
+    </view>
+    <view class="clock-item">
+      <text class="clock-content"> abc</text>
+      <text class="clock-tips">未完成</text>
+    </view>
+  </view>
+</view>

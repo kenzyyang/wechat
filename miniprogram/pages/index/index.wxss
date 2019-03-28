@@ -1,0 +1,29 @@
+/* .userImage{
+  width: 140rpx;
+  height: 140rpx;
+  border-radius: 50%;
+  margin-top: 40rpx;
+  display: block;
+  overflow: hidden;
+} */
+
+.container{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: left;
+  width: 100%;
+}
+.container .title{
+  width: 100%;
+  display: inline-flex;
+  font-size: 35rpx;
+  color: #555;
+  border-bottom: 1px solid black;
+  padding-top: 10rpx;
+  padding-bottom: 10rpx;
+}
+.footer{
+  position: fixed;
+  bottom: 0;
+}

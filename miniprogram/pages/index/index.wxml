@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view>
+    <no-item wx:if="{{!hasItem}}"></no-item>
+    <block wx:else>
+      <view>hello</view>
+    </block>
+</view>

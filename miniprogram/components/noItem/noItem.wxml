@@ -1,0 +1,7 @@
+<!--pages/noItem/noItem.wxml-->
+<view class="no-item">
+  <view>
+    <view class="tips">您还没有任何打卡活动</view>
+    <button class="addItem" bindtap="to">新增打卡</button>
+  </view>
+</view>

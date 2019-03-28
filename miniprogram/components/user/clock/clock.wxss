@@ -1,0 +1,40 @@
+.clock {
+  width: 100%;
+  height: 120rpx;
+  background-color: #fff;
+  box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.clock .clock-block {
+  width: 80%;
+  height: 100rpx;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.clock .clock-block  .clock-item {
+  width: 27%;
+  height: 100rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.clock .clock-block .clock-item .clock-content {
+  font-size: 46rpx;
+  font-weight: 700;
+}
+
+.clock  .clock-block  .clock-item .clock-tips {
+  font-size: 20rpx;
+  font-weight: 400;
+}
+
+.clock .clock-block .right-border {
+  border-right: 1 solid red;
+}

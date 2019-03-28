@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "user-header": "/components/user/header/header",
+    "clock-info": "/components/user/clock/clock",
+    "button-list": "/components/user/list/list"
+  }
+}
